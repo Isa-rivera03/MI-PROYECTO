@@ -1,0 +1,21 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "node Ejercicios/Ejercicio-01.js",
+    "ejercicio2": "node Ejercicios/Ejercicio-02.js",
+    "ejercicio3": "node Ejercicios/Ejercicio-03.js",
+    "ejercicio4": "node Ejercicios/Ejercicio-04.js",
+    "ejercicio5": "node Ejercicios/Ejercicio-05.js",
+    "ejercicio6": "node Ejercicios/Ejercicio-06.js",
+    "ejercicio7": "node Ejercicios/Ejercicio-07.js",
+    "ejercicio8": "node Ejercicios/Ejercicio-08.js",
+    "ejercicio9": "node Ejercicios/Ejercicio-09.js",
+    "ejercicio10": "node Ejercicios/Ejercicio-10.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
